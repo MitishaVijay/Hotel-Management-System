@@ -48,3 +48,27 @@ The database schema includes the following tables:
   - `Facility`
   - `PricePerNight`     
    
+
+## Opeators
+   1. **AND Operator**
+   2. **OR Operator**
+   3. **NOT Operator**
+   4. **LIKE Opearator**
+   5. **LIMIT Operator**
+   6. **OFFSET Operator**
+   7. **AGGREGATE Operator**
+      - `MAX Operator`
+      - `MIN Operator`
+      - `AVG Operator`
+      - `COUNT Operator`
+   8. **DATA MANIPULATION OPERATIONS**
+      - `UPDATE Operator`
+      - `DELETE Operator`
+      - `ALTER Operator`
+   9. **JOINS**
+      - `INNER Join`
+      - `LEFT Join`
+      - `RIGHT Join`
+   10. **SUBQUERIES**
+      
+              
